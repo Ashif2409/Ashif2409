@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently studying at **IIIT Vadodara ICD**
 
-- 🌱 I’m currently learning **Microservices**
-
 - 👯 I'm part time backend developer **@Alcinius**
 
 - 📫 How to reach me **khalilulmd@gmail.com**
