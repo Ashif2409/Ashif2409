@@ -39,6 +39,6 @@
 
 ## Get in Touch
 
-I’m always open to discussing new projects, collaborations, or opportunities. Reach out to me through my (LinkedIn)[https://www.linkedin.com/in/md-khalilul-rahman-451622240/] or via (email)[khalilulmd@gmail.com].
+I’m always open to discussing new projects, collaborations, or opportunities. Reach out to me through my [LinkedIn](https://www.linkedin.com/in/md-khalilul-rahman-451622240/) or via [email](khalilulmd@gmail.com).
 
 Thank you for visiting my GitHub profile!
