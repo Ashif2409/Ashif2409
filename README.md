@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/md-khalilul-rahman-451622240/" target="_blank">LinkedIn</a> |
-    <a href="https://www.instagram.com/a_s_h_i_f_24?igsh=MWhrN3YyM3E4MjNybQ==" target="_blank">Instagram</a> 
+    <a href="https://www.linkedin.com/in/md-khalilul-rahman-451622240/" target="_blank">LinkedIn</a> 
 </p>
 <h3 align="left">DSA:</h3>
     <a href="https://www.geeksforgeeks.org/user/md_khalilul_rahman/" target="_blank">GeeksforGeeks</a> |
